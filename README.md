@@ -16,6 +16,10 @@ The Horiseon Website is for used to find information about search engine optimiz
 
 N/A
 
+## Link to Site
+
+[Lavanya's Module 1 Challenge link](https://lavanyavirushan.github.io/m1C-accessibility/)
+
 ## License
 
 Please refer to the LICENSE in the repo.
