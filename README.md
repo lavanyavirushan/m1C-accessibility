@@ -20,6 +20,14 @@ N/A
 
 [Lavanya's Module 1 Challenge link](https://lavanyavirushan.github.io/m1C-accessibility/)
 
+## Screenshot of the site
+
+![Screenshot](./assets/images/screen-shot-of-working-site.png)
+
 ## License
 
 Please refer to the LICENSE in the repo.
+
+```
+
+```
